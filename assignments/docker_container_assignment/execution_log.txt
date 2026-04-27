@@ -1,0 +1,11 @@
+Docker image built successfully.
+
+Container output:
+Hello World
+My name is Dawson Westnedge
+
+Browser verification:
+lynx installed successfully
+
+Repository verification:
+xv6-public directory exists
